@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 36cf8ad20f3767042909fea7709cd013
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Backpack
+    100002: Brand/Badge
+    100004: Bullet(Sniper)
+    100006: Ears
+    100008: ExtraMagazines
+    100010: Eyes
+    100012: Glasses
+    100014: Hands/Gloves
+    100016: Hat
+    100018: Head
+    100020: kneepad
+    100022: Magazine(InRifle)
+    100024: MagazineBox
+    100026: NeckMask
+    100028: Shirt/UpperBody
+    100030: Shoes/Feet
+    100032: ShoulderBadges
+    100034: //RootNode
+    100036: SniperRifle
+    100038: Survivalbag
+    100040: Trousers/Legs
+    100042: vest
+    100044: WalkieTalkie
+    400000: Backpack
+    400002: Brand/Badge
+    400004: Bullet(Sniper)
+    400006: Ears
+    400008: ExtraMagazines
+    400010: Eyes
+    400012: Glasses
+    400014: Hands/Gloves
+    400016: Hat
+    400018: Head
+    400020: kneepad
+    400022: Magazine(InRifle)
+    400024: MagazineBox
+    400026: NeckMask
+    400028: Shirt/UpperBody
+    400030: Shoes/Feet
+    400032: ShoulderBadges
+    400034: //RootNode
+    400036: SniperRifle
+    400038: Survivalbag
+    400040: Trousers/Legs
+    400042: vest
+    400044: WalkieTalkie
+    2100000: Material.304
+    2100002: Material.303
+    2100004: Material.306
+    2100006: Material.041
+    2100008: Material.035
+    2100010: Material.036
+    2100012: Material.008
+    2100014: Material.050
+    2100016: No Name
+    2300000: Backpack
+    2300002: Brand/Badge
+    2300004: Bullet(Sniper)
+    2300006: Ears
+    2300008: ExtraMagazines
+    2300010: Eyes
+    2300012: Glasses
+    2300014: Hands/Gloves
+    2300016: Hat
+    2300018: Head
+    2300020: kneepad
+    2300022: Magazine(InRifle)
+    2300024: MagazineBox
+    2300026: NeckMask
+    2300028: Shirt/UpperBody
+    2300030: Shoes/Feet
+    2300032: ShoulderBadges
+    2300034: SniperRifle
+    2300036: Survivalbag
+    2300038: Trousers/Legs
+    2300040: vest
+    2300042: WalkieTalkie
+    3300000: Backpack
+    3300002: Brand/Badge
+    3300004: Bullet(Sniper)
+    3300006: Ears
+    3300008: ExtraMagazines
+    3300010: Eyes
+    3300012: Glasses
+    3300014: Hands/Gloves
+    3300016: Hat
+    3300018: Head
+    3300020: kneepad
+    3300022: Magazine(InRifle)
+    3300024: MagazineBox
+    3300026: NeckMask
+    3300028: Shirt/UpperBody
+    3300030: Shoes/Feet
+    3300032: ShoulderBadges
+    3300034: SniperRifle
+    3300036: Survivalbag
+    3300038: Trousers/Legs
+    3300040: vest
+    3300042: WalkieTalkie
+    4300000: Magazine(InRifle)
+    4300002: SniperRifle
+    4300004: Bullet(Sniper)
+    4300006: ShoulderBadges
+    4300008: Head
+    4300010: Trousers/Legs
+    4300012: Shoes/Feet
+    4300014: Hands/Gloves
+    4300016: kneepad
+    4300018: vest
+    4300020: Backpack
+    4300022: Survivalbag
+    4300024: Brand/Badge
+    4300026: MagazineBox
+    4300028: ExtraMagazines
+    4300030: NeckMask
+    4300032: WalkieTalkie
+    4300034: Ears
+    4300036: Eyes
+    4300038: Glasses
+    4300040: Hat
+    4300042: Shirt/UpperBody
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
